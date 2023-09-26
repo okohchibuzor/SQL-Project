@@ -24,3 +24,4 @@ For the tasks, I came up with four questions.
 
 TASK 1
 
+![](sql_query1.sql)
