@@ -67,7 +67,7 @@ For the tasks, I came up with four questions.
 
   ![](Presentation_4.PNG)
 
-  ---
+---
 
   ### Connect with me
 ---
