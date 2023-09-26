@@ -67,5 +67,15 @@ For the tasks, I came up with four questions.
 
   ![](Presentation_4.PNG)
 
+  ---
+
+  ### Connect with me
+---
+
+  [Linkedin](https://linkedin.com/in/chibuzor-data-analyst) 
+  
+[Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
+
+
 
 
